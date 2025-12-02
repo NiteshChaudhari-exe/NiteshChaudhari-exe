@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="http://www.Floricela.com/"> Nitesh Chaudhari</a>!
+  Hi, I'm <a href="http://www.Floricela.com/"> Nitesh Chaudhar</a>!
   <img align="right" ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=NiteshChaudhari-exe)
   >
 </h1>
@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong> India, Asia </strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:vasilirigels@gmail.com"><strong>chaudharinitesh485@gmail.com</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:chaudharinitesh485@gmail.com"><strong>chaudharinitesh485@gmail.com</strong></a>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong> A Modern Portfolio </strong>
