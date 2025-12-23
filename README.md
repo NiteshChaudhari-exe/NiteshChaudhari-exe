@@ -1,7 +1,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="http://www.Floricela.com/"> Nitesh Chaudhar</a>!
+  Hi, I'm <a href="http://www.Floricela.com/"> Nitesh Chaudhari</a>!
   <img align="right" ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=NiteshChaudhari-exe)
   >
 </h1>
