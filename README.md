@@ -101,7 +101,7 @@ Explore my repositories to see projects spanning various domains and technologie
 
 ## <div id="professional-experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25px" align="center" alt="Briefcase"/> Professional Journey</div>
 
-### Junior Developer
+### Junior Developer And Networking Enthusiast
 - Building responsive and interactive user interfaces with React and Next.js
 - Crafting pixel-perfect UI implementations with accessibility in mind
 - Learning frontend performance optimization and code splitting techniques
