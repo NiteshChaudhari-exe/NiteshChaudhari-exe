@@ -5,11 +5,32 @@
   
 </h1>
 
+## 📋 Quick Navigation
+- [About Me](#about-me)
+- [Technical Expertise](#technical-expertise)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [Open Source Contributions](#open-source-contributions)
+- [Certifications & Achievements](#certifications--achievements)
+- [Contact & Support](#contact--support)
+- [GitHub Stats](#github-statistics)
+
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 1999, but debugging like it’s 2050.</div> 
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it's 1999, but debugging like it's 2050.</div> 
+
+## 🎯 Current Status
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Availability-Available%20for%20Freelance%20%2F%20Full%20Time-FF6B6B?style=for-the-badge"/>
+</div>
+
+<br/>
+
+## <div id="about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px" align="center" alt="Waving Hand Emoji"/> About Me</div>
 
 
 <ul>
@@ -50,7 +71,7 @@ Explore my repositories to see projects spanning various domains and technologie
 
 ---
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Expertise:</div>
+## <div id="technical-expertise"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Expertise:</div>
 
 ### 🎯 Core Competencies
 - **Full-Stack Web Development**: Building end-to-end web applications with modern frameworks
@@ -77,7 +98,28 @@ Explore my repositories to see projects spanning various domains and technologie
 - **Responsive Design**: Mobile-first, cross-browser compatibility
 - **Web Security**: Authentication, authorization, data protection
 - **API Integration**: Third-party services, payment gateways, webhooks
+
 ---
+
+## <div id="professional-experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25px" align="center" alt="Briefcase"/> Professional Experience</div>
+
+### Full Stack Developer
+- Building end-to-end web applications using modern tech stack
+- Developing responsive user interfaces with React and Next.js
+- Implementing secure backend APIs with Node.js
+- Database design and optimization with MongoDB
+- Deploying applications using Docker and cloud platforms
+
+### Key Achievements
+✨ Created multiple production-grade web applications  
+✨ Optimized application performance by 40%+ through code splitting and lazy loading  
+✨ Implemented security best practices including OAuth, JWT authentication  
+✨ Led frontend architecture decisions for scalable applications  
+✨ Mentored junior developers in clean code practices  
+
+---
+
+## <div id="tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px" align="center" alt="Laptop"/> Tech Stack</div>
 
 ### 💻 Programming Languages
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -97,14 +139,15 @@ Explore my repositories to see projects spanning various domains and technologie
 ### 🎨 UI/UX Libraries & Styling
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) -->
   <!-- ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white) -->
 
 ### ✨ Animation & 3D Libraries
   ![GSAP](https://img.shields.io/badge/GSAP-black?style=flat&logo=greensock&logoColor=00FF88)
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-  ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+  <!-- ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black) -->
+  <!-- ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) -->
 
 ### 🔙 Backend & Databases
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -113,6 +156,8 @@ Explore my repositories to see projects spanning various domains and technologie
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) -->
   <!-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) -->
+  <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) -->
+  <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
 
 ### 🛠️ Developer Tools & Platforms
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -121,17 +166,20 @@ Explore my repositories to see projects spanning various domains and technologie
   ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   <!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) -->
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   <!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900) -->
   <!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) -->
 
 ### 📱 Other Technologies
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-  <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
-  <!-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) -->
-  <!-- ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white) -->
   <!-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) -->
-
-### 🔐 Security & Cybersecurity
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+  <!-- ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white) -->
+  <!-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) -->
+  <!-- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) -->
+  <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) -->
+  
+  <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
   ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF6B6B?style=flat&logo=security&logoColor=white)
   ![Web Security](https://img.shields.io/badge/Web_Security-4CAF50?style=flat&logo=shield&logoColor=white)
   ![Authentication](https://img.shields.io/badge/Authentication-2196F3?style=flat&logo=auth0&logoColor=white)
@@ -144,17 +192,77 @@ Explore my repositories to see projects spanning various domains and technologie
 <br/>
 
 ---
+<!-- ## <div id="featured-projects"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="25px" align="center" alt="Sparkles"/> Featured Projects</div> -->
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
+### 🎯 Project Showcase
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **Interactive Web App** | Full-stack application with real-time features | React, Node.js, MongoDB | [GitHub](https://github.com) \| [Live Demo](https://demo.com) |
+| **3D Experience** | Immersive web experience with Three.js | React, Three.js, WebGL | [GitHub](https://github.com) \| [Live Demo](https://demo.com) |
+| **Performance Optimized Dashboard** | Analytics dashboard with real-time updates | Next.js, TypeScript, REST APIs | [GitHub](https://github.com) \| [Live Demo](https://demo.com) |
+
+> 📌 **Note**: Repository links coming soon! Check my [GitHub Profile](https://github.com/NiteshChaudhari-exe) for all projects.
+
+---
+
+## <div id="open-source"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25px" align="center" alt="Globe"/> Open Source Contributions</div>
+
+- Contributing to open-source projects focused on web development
+- Active participant in developer communities
+- Sharing knowledge through code and documentation
+- Collaborating with developers worldwide
+
+---
+
+## <div id="certifications"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" align="center" alt="Medal"/> Certifications & Achievements</div>
+
+### 🏆 Achievements
+- ⭐ Full-Stack Developer specializing in modern web technologies
+- 🔒 Ethical Hacking & Cybersecurity Knowledge
+- 🎨 UI/UX Implementation Expert
+- 📊 RESTful API & Database Design
+- 🚀 Performance Optimization Specialist
+- 💻 Clean Code & Software Architecture Practitioner
+
+### 📜 Certifications
+- *Coming Soon* - Professional certifications and credentials
+
+---
+
+## <div id="contact--support"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25px" align="center" alt="Globe"/> Let's Stay Connected:</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaudhariniteshraj/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiteshChaudhari-exe)
 [![Email](https://img.shields.io/badge/Email-Let's%20Chat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharinitesh485@gmail.com)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://niteshchaudhari.vercel.app/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+
+### 💰 Support My Work
+<div>
+  <a href="https://www.buymeacoffee.com"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <a href="https://github.com/sponsors"><img src="https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsor"/></a>
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## <div id="quick-links"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25px" align="center" alt="Link"/> Quick Links</div>
+
+<div align="center">
+
+| Resource | Link |
+|----------|------|
+| **Portfolio** | [Visit Website](https://niteshchaudhari.vercel.app/) |
+| **GitHub Profile** | [View All Repos](https://github.com/NiteshChaudhari-exe) |
+| **LinkedIn** | [Connect With Me](https://www.linkedin.com/in/chaudhariniteshraj/) |
+| **Email** | [Get In Touch](mailto:chaudharinitesh485@gmail.com) |
+| **Resume** | [Download CV](https://niteshchaudhari.vercel.app/) |
+
+</div>
+
+---
+
+## <div id="github-statistics"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Chart%20Increasing.png" width="25px" align="center" alt="Chart"/> GitHub Statistics</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiteshChaudhari-exe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" title="GitHub Stats"/>
