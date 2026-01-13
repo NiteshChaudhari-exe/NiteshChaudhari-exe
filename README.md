@@ -74,48 +74,46 @@ Explore my repositories to see projects spanning various domains and technologie
 ## <div id="technical-expertise"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Expertise:</div>
 
 ### 🎯 Core Competencies
-- **Full-Stack Web Development**: Building end-to-end web applications with modern frameworks
-- **Frontend Architecture**: Component design, state management, performance optimization
-- **UI/UX Implementation**: Responsive design, accessibility, animation & interactive experiences
-- **3D Graphics Integration**: Three.js, WebGL, immersive web experiences
-- **Backend Development**: RESTful APIs, server-side logic, database optimization
-- **DevOps & Deployment**: Docker containerization, cloud platforms, CI/CD pipelines
-- **Code Quality**: Testing frameworks, performance profiling, best practices implementation
-- **Cybersecurity & Ethical Hacking**: Web application security, penetration testing, vulnerability assessment
-- **Secure Authentication & Authorization**: OAuth, JWT, role-based access control (RBAC)
+- **Frontend Development**: Modern React, Next.js, component design, and responsive UI
+- **Frontend Architecture**: State management, performance optimization, code splitting
+- **UI/UX Implementation**: Responsive design, accessibility, animations & interactive experiences
+- **Network Fundamentals**: Understanding TCP/IP, DNS, HTTP protocols
+- **Cybersecurity & Ethical Hacking**: Web application security, OWASP vulnerabilities, penetration testing basics
+- **Secure Authentication**: OAuth, JWT, CORS, security best practices
+- **Web Security**: XSS prevention, CSRF protection, secure coding practices
 
 ### 📚 Development Methodologies
 - Agile/Scrum Development
 - Test-Driven Development (TDD)
 - Object-Oriented Programming (OOP)
 - Functional Programming Concepts
-- Microservices Architecture
 - Clean Code Principles
+<!-- - Microservices Architecture -->
 
 ### 🔍 Specializations
-- **Progressive Web Apps (PWA)**: Creating app-like web experiences
-- **Performance Optimization**: Minimizing load times, optimizing bundle sizes
-- **Responsive Design**: Mobile-first, cross-browser compatibility
-- **Web Security**: Authentication, authorization, data protection
-- **API Integration**: Third-party services, payment gateways, webhooks
+- **Progressive Web Apps (PWA)**: Creating app-like web experiences with offline support
+- **Frontend Performance**: Bundle optimization, lazy loading, performance metrics
+- **Responsive Design**: Mobile-first, cross-browser compatibility, accessibility
+- **Web Security**: XSS prevention, CSRF protection, secure API consumption
+- **Network & Security**: Understanding HTTP/HTTPS, DNS, firewalls, and security protocols
 
 ---
 
-## <div id="professional-experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25px" align="center" alt="Briefcase"/> Professional Experience</div>
+## <div id="professional-experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25px" align="center" alt="Briefcase"/> Professional Journey</div>
 
-### Full Stack Developer
-- Building end-to-end web applications using modern tech stack
-- Developing responsive user interfaces with React and Next.js
-- Implementing secure backend APIs with Node.js
-- Database design and optimization with MongoDB
-- Deploying applications using Docker and cloud platforms
+### Junior Frontend Developer
+- Building responsive and interactive user interfaces with React and Next.js
+- Crafting pixel-perfect UI implementations with accessibility in mind
+- Learning frontend performance optimization and code splitting techniques
+- Exploring web security vulnerabilities and secure coding practices
+- Deepening knowledge of network protocols and cybersecurity fundamentals
 
-### Key Achievements
-✨ Created multiple production-grade web applications  
-✨ Optimized application performance by 40%+ through code splitting and lazy loading  
-✨ Implemented security best practices including OAuth, JWT authentication  
-✨ Led frontend architecture decisions for scalable applications  
-✨ Mentored junior developers in clean code practices  
+### Learning Goals & Achievements
+✨ Developing modern, performant frontend applications with best practices  
+✨ Studying web security vulnerabilities (OWASP Top 10, XSS, CSRF)  
+✨ Learning network fundamentals and how the web works at protocol level  
+✨ Passionate about cybersecurity and ethical hacking principles  
+✨ Eager to build secure, user-friendly applications and grow technical expertise  
 
 ---
 
@@ -217,12 +215,12 @@ Explore my repositories to see projects spanning various domains and technologie
 ## <div id="certifications"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" align="center" alt="Medal"/> Certifications & Achievements</div>
 
 ### 🏆 Achievements
-- ⭐ Full-Stack Developer specializing in modern web technologies
-- 🔒 Ethical Hacking & Cybersecurity Knowledge
-- 🎨 UI/UX Implementation Expert
-- 📊 RESTful API & Database Design
-- 🚀 Performance Optimization Specialist
-- 💻 Clean Code & Software Architecture Practitioner
+- ⭐ Frontend Developer specializing in React and modern web technologies
+- 🔒 Cybersecurity & Ethical Hacking Enthusiast
+- 🌐 Network Fundamentals & Protocol Knowledge
+- 🎨 UI/UX Implementation & Responsive Design
+- ⚡ Frontend Performance Optimization Specialist
+- 🛡️ Web Security & Secure Coding Practices Advocate
 
 ### 📜 Certifications
 - *Coming Soon* - Professional certifications and credentials
