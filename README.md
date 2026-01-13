@@ -101,7 +101,7 @@ Explore my repositories to see projects spanning various domains and technologie
 
 ## <div id="professional-experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25px" align="center" alt="Briefcase"/> Professional Journey</div>
 
-### Junior Frontend Developer
+### Junior Developer
 - Building responsive and interactive user interfaces with React and Next.js
 - Crafting pixel-perfect UI implementations with accessibility in mind
 - Learning frontend performance optimization and code splitting techniques
@@ -270,11 +270,11 @@ Explore my repositories to see projects spanning various domains and technologie
 ---
 
 ### 💡 Fun Facts
-- 🎮 I love creating interactive experiences and bringing designs to life with code
-- 🔐 Passionate about cybersecurity and ethical hacking practices
-- 🤖 Exploring AI/ML integration for smarter applications
-- 🚀 Always learning the latest web technologies and best practices
-- ☕ Coffee-driven developer
+- 🎮 I love creating interactive experiences and bringing designs to life with code.
+- 🔐 Passionate about cybersecurity and ethical hacking practices.
+- 🤖 Exploring AI/ML integration for smarter applications.
+- 🚀 Always learning the latest web technologies and best practices.
+- ☕ Tea-driven developer, But i consume coffee too.
 
 ---
 
