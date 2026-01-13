@@ -259,7 +259,7 @@ Explore my repositories to see projects spanning various domains and technologie
 | **Resume** | [Download CV](https://niteshchaudhari.vercel.app/) |
 
 </div>
-
+<!-- 
 ---
 
 ## <div id="github-statistics"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Chart%20Increasing.png" width="25px" align="center" alt="Chart"/> GitHub Statistics</div>
@@ -267,7 +267,7 @@ Explore my repositories to see projects spanning various domains and technologie
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiteshChaudhari-exe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" title="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshChaudhari-exe&layout=compact&theme=dark" title="Most Used Languages"/>
-</div>
+</div> -->
 
 ---
 
