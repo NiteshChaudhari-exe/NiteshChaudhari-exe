@@ -4,7 +4,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=NiteshChaudhari-exe" alt="Profile view counter on GitHub"/>
   
 </h1>
-
+<!-- 
 ## 📋 Quick Navigation
 - [About Me](#about-me)
 - [Technical Expertise](#technical-expertise)
@@ -14,7 +14,7 @@
 - [Certifications & Achievements](#certifications--achievements)
 - [Contact & Support](#contact--support)
 - [GitHub Stats](#github-statistics)
-
+ -->
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
@@ -69,7 +69,7 @@
 ## 🚀 My Projects
 Explore my repositories to see projects spanning various domains and technologies. I focus on writing clean, maintainable code and continually expanding my skill set.
 
----
+<!-- ---
 
 ## <div id="technical-expertise"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Expertise:</div>
 
@@ -89,16 +89,15 @@ Explore my repositories to see projects spanning various domains and technologie
 - Functional Programming Concepts
 - Clean Code Principles
 <!-- - Microservices Architecture -->
-
+<!-- 
 ### 🔍 Specializations
 - **Progressive Web Apps (PWA)**: Creating app-like web experiences with offline support
 - **Frontend Performance**: Bundle optimization, lazy loading, performance metrics
 - **Responsive Design**: Mobile-first, cross-browser compatibility, accessibility
 - **Web Security**: XSS prevention, CSRF protection, secure API consumption
-- **Network & Security**: Understanding HTTP/HTTPS, DNS, firewalls, and security protocols
+- **Network & Security**: Understanding HTTP/HTTPS, DNS, firewalls, and security protocols -->
 
----
-
+<!-- 
 ## <div id="professional-experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25px" align="center" alt="Briefcase"/> Professional Journey</div>
 
 ### Junior Developer
@@ -106,7 +105,7 @@ Explore my repositories to see projects spanning various domains and technologie
 - Crafting pixel-perfect UI implementations with accessibility in mind
 - Learning frontend performance optimization and code splitting techniques
 - Exploring web security vulnerabilities and secure coding practices
-- Deepening knowledge of network protocols and cybersecurity fundamentals
+- Deepening knowledge of network protocols and cybersecurity fundamentals -->
 
 ### Learning Goals & Achievements
 ✨ Developing modern, performant frontend applications with best practices  
@@ -189,9 +188,8 @@ Explore my repositories to see projects spanning various domains and technologie
 
 <br/>
 
----
 <!-- ## <div id="featured-projects"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="25px" align="center" alt="Sparkles"/> Featured Projects</div> -->
-
+<!-- 
 ### 🎯 Project Showcase
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
@@ -199,7 +197,7 @@ Explore my repositories to see projects spanning various domains and technologie
 | **3D Experience** | Immersive web experience with Three.js | React, Three.js, WebGL | [GitHub](https://github.com) \| [Live Demo](https://demo.com) |
 | **Performance Optimized Dashboard** | Analytics dashboard with real-time updates | Next.js, TypeScript, REST APIs | [GitHub](https://github.com) \| [Live Demo](https://demo.com) |
 
-> 📌 **Note**: Repository links coming soon! Check my [GitHub Profile](https://github.com/NiteshChaudhari-exe) for all projects.
+> 📌 **Note**: Repository links coming soon! Check my [GitHub Profile](https://github.com/NiteshChaudhari-exe) for all projects. -->
 
 ---
 
@@ -241,7 +239,7 @@ Explore my repositories to see projects spanning various domains and technologie
   <a href="https://www.buymeacoffee.com"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
   <a href="https://github.com/sponsors"><img src="https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsor"/></a>
 </div>
-
+<!-- 
 ---
 
 ## <div id="quick-links"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25px" align="center" alt="Link"/> Quick Links</div>
@@ -256,7 +254,7 @@ Explore my repositories to see projects spanning various domains and technologie
 | **Email** | [Get In Touch](mailto:chaudharinitesh485@gmail.com) |
 | **Resume** | [Download CV](https://niteshchaudhari.vercel.app/) |
 
-</div>
+</div> -->
 <!-- 
 ---
 
