@@ -21,10 +21,10 @@
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it's 1999, but debugging like it's 2050.</div> 
 
-## 🎯 Current Status
-<div align="center">
+<!-- ## 🎯 Current Status -->
+<div align="left">
   <img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20/%20Ethical%20Hacking-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Availability-Available%20for%20Freelance%20%2F%20Full%20Time-FF6B6B?style=for-the-badge"/>
 </div>
 
