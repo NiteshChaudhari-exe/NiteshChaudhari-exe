@@ -115,68 +115,69 @@ Explore my repositories to see projects spanning various domains and technologie
 ✨ Eager to build secure, user-friendly applications and grow technical expertise  
 
 ---
+<!-- 
+## <div id="tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px" align="center" alt="Laptop"/> Tech Stack</div> -->
 
-## <div id="tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px" align="center" alt="Laptop"/> Tech Stack</div>
-
-### 💻 Programming Languages
+<!-- ### 💻 Programming Languages
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) -->
-  <!-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) -->
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) -->
 
-### ⚛️ Frontend Frameworks & Libraries
+<!-- ### ⚛️ Frontend Frameworks & Libraries
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  <!-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) -->
-  <!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) -->
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) -->
 
-### 🎨 UI/UX Libraries & Styling
+<!-- ### 🎨 UI/UX Libraries & Styling
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-  <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) -->
-  <!-- ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white) -->
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white) -->
 
-### ✨ Animation & 3D Libraries
+<!-- ### ✨ Animation & 3D Libraries
   ![GSAP](https://img.shields.io/badge/GSAP-black?style=flat&logo=greensock&logoColor=00FF88)
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-  <!-- ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black) -->
-  <!-- ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) -->
+  ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) -->
 
-### 🔙 Backend & Databases
+<!-- ### 🔙 Backend & Databases
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=api&logoColor=white)
-  <!-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) -->
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) -->
-  <!-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) -->
-  <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) -->
-  <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
 
-### 🛠️ Developer Tools & Platforms
+
+<!-- ### 🛠️ Developer Tools & Platforms
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  <!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) -->
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-  <!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900) -->
-  <!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) -->
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) -->
 
-### 📱 Other Technologies
+<!-- ### 📱 Other Technologies
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-  <!-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) -->
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-  <!-- ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white) -->
-  <!-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) -->
-  <!-- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) -->
-  <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) -->
+  ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   
-  <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
   ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF6B6B?style=flat&logo=security&logoColor=white)
   ![Web Security](https://img.shields.io/badge/Web_Security-4CAF50?style=flat&logo=shield&logoColor=white)
   ![Authentication](https://img.shields.io/badge/Authentication-2196F3?style=flat&logo=auth0&logoColor=white)
@@ -184,7 +185,7 @@ Explore my repositories to see projects spanning various domains and technologie
   ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
   ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-FF6B35?style=flat&logo=ssl&logoColor=white)
   ![Data Protection](https://img.shields.io/badge/Data_Protection-00BCD4?style=flat&logo=privacy&logoColor=white)
-<br/>
+<br/> -->
 
 <br/>
 
@@ -203,22 +204,22 @@ Explore my repositories to see projects spanning various domains and technologie
 
 ## <div id="open-source"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25px" align="center" alt="Globe"/> Open Source Contributions</div>
 
-- Contributing to open-source projects focused on web development
+- Contributing to open-source projects 
 - Active participant in developer communities
 - Sharing knowledge through code and documentation
 - Collaborating with developers worldwide
 
 ---
 
-## <div id="certifications"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" align="center" alt="Medal"/> Certifications & Achievements</div>
+<!-- ## <div id="certifications"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" align="center" alt="Medal"/> Certifications & Achievements</div> -->
 
-### 🏆 Achievements
+<!-- ### 🏆 Achievements
 - ⭐ Frontend Developer specializing in React and modern web technologies
 - 🔒 Cybersecurity & Ethical Hacking Enthusiast
 - 🌐 Network Fundamentals & Protocol Knowledge
 - 🎨 UI/UX Implementation & Responsive Design
 - ⚡ Frontend Performance Optimization Specialist
-- 🛡️ Web Security & Secure Coding Practices Advocate
+- 🛡️ Web Security & Secure Coding Practices Advocate -->
 
 ### 📜 Certifications
 - *Coming Soon* - Professional certifications and credentials
@@ -234,11 +235,11 @@ Explore my repositories to see projects spanning various domains and technologie
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://niteshchaudhari.vercel.app/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
-### 💰 Support My Work
+<!-- ### 💰 Support My Work
 <div>
   <a href="https://www.buymeacoffee.com"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
   <a href="https://github.com/sponsors"><img src="https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsor"/></a>
-</div>
+</div> -->
 <!-- 
 ---
 
@@ -268,10 +269,10 @@ Explore my repositories to see projects spanning various domains and technologie
 ---
 
 ### 💡 Fun Facts
-- 🎮 I love creating interactive experiences and bringing designs to life with code.
+- 🎮 love creating interactive experiences and bringing designs to life with code.
 - 🔐 Passionate about cybersecurity and ethical hacking practices.
 - 🤖 Exploring AI/ML integration for smarter applications.
-- 🚀 Always learning the latest web technologies and best practices.
+- 🚀 Always learning the latest technologies and best practices.
 - ☕ Tea-driven developer, But i consume coffee too.
 
 ---
